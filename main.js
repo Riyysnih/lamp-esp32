@@ -1,4 +1,4 @@
-const endpoint = "http://192.168.1.11";
+const endpoint = "http://192.168.1.10";
 
 function getTamuLed() {
     fetch(endpoint + "/tamu", {
