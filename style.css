@@ -25,6 +25,7 @@ html {
 .topbar h3 {
     color: azure;
     font-weight: 900;
+    font-size: x-large;
 }
 
 .items {
@@ -129,10 +130,3 @@ html {
     scale: 120%;
     transition: all 0.3s ease-in-out;
 }
-
-@media only screen and (max-width: 600px) {
-    .bottombar {
-      position: absolute;
-      width: 100%;
-    }
-  }
